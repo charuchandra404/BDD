@@ -22,6 +22,7 @@ $ mvn test
 ```
 * Reports will be available in test-output folder
 * Sample reports are available in test-output folder
+
 ### Current Limitations
 * Test cases can only be run in Chrome browser as other browser drivers(Gecko, InternetExplorerDriver) are not available in project path
 
@@ -32,4 +33,4 @@ $ mvn test
 * Test data util classes can be created to fetch data from json/yaml/excel
 * URL and basic setup info can be taken from config.property file
 * Reporting can be changed to Extent Reporting or Allure reporting
-* Take Screenshot when failure of tests feature can be adde
+* Take Screenshot when failure of tests feature can be added
